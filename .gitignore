@@ -1,0 +1,7 @@
+*.jpg
+*.zip
+*.csv
+food-101
+__pycache__
+caloriephone_model
+base_model_backup
